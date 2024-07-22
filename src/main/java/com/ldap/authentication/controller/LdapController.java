@@ -10,4 +10,5 @@ public class LdapController {
 	public String test() {
 		return "test";
 	}
+	
 }
